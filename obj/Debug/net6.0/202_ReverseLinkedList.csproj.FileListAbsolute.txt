@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\202_ReverseLinkedList\bin\Debug\net6.0\202_ReverseLinkedList.exe
+C:\Projetos\CSharp\202_ReverseLinkedList\bin\Debug\net6.0\202_ReverseLinkedList.deps.json
+C:\Projetos\CSharp\202_ReverseLinkedList\bin\Debug\net6.0\202_ReverseLinkedList.runtimeconfig.json
+C:\Projetos\CSharp\202_ReverseLinkedList\bin\Debug\net6.0\202_ReverseLinkedList.dll
+C:\Projetos\CSharp\202_ReverseLinkedList\bin\Debug\net6.0\202_ReverseLinkedList.pdb
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.AssemblyInfo.cs
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.dll
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\refint\202_ReverseLinkedList.dll
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.pdb
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\202_ReverseLinkedList.genruntimeconfig.cache
+C:\Projetos\CSharp\202_ReverseLinkedList\obj\Debug\net6.0\ref\202_ReverseLinkedList.dll
